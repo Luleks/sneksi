@@ -1,0 +1,11 @@
+Welcome to Sneksi!
+Sneksi is simple snake game, 
+with cool features, 
+made soly with pygame!
+Enjoy!
+----------------------------
+!Singleplayer personal bests
+!Mulyiplayer result history
+----------------------------
+Contact: <some contact info>
+P.S. font used is called 2Dumb

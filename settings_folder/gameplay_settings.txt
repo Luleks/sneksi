@@ -1,0 +1,1 @@
+dslow/|medium|/fast ddie/|pass| dWASD/|arrows|/IJKL
