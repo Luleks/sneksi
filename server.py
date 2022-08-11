@@ -14,7 +14,7 @@ DIMENSION = 600
 GRID_SIZE = 20
 GAP = DIMENSION // GRID_SIZE
 
-server = '192.168.1.5'
+server = 'YOUR LOCAL IPv4'
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
